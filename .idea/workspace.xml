@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9278ed74-6200-4555-9edf-9d9919d0d244" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vd8MEfnJ5VLEkDfIYDh0EsR6A6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\新建文件夹 (3)\ASOUL FAN\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9278ed74-6200-4555-9edf-9d9919d0d244" name="默认更改列表" comment="" />
+      <created>1626880555872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626880555872</updated>
+      <workItem from="1626880558414" duration="3851000" />
+      <workItem from="1626922761898" duration="4658000" />
+      <workItem from="1626931811699" duration="9784000" />
+      <workItem from="1626944881107" duration="267000" />
+      <workItem from="1626945162556" duration="863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1626942833079">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626942833079" />
+  </component>
+</project>
